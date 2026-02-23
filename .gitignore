@@ -109,6 +109,9 @@ poetry.lock
 *.backup
 *.bak
 
+# Reflexion auto-generated mistake documents (runtime artifacts)
+docs/mistakes/*.md
+
 # Project specific
 Tests/
 temp/
